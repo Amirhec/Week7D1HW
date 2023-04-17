@@ -1,0 +1,6 @@
+  [1m[35m (108.1ms)[0m  [1m[35mCREATE DATABASE "auth_development" ENCODING = 'unicode'[0m
+  [1m[35m (95.1ms)[0m  [1m[35mCREATE DATABASE "auth_test" ENCODING = 'unicode'[0m
+  [1m[35m (63.8ms)[0m  [1m[35mDROP DATABASE IF EXISTS "auth_development"[0m
+  [1m[35m (32.2ms)[0m  [1m[35mDROP DATABASE IF EXISTS "auth_test"[0m
+  [1m[35m (89.4ms)[0m  [1m[35mCREATE DATABASE "auth_development" ENCODING = 'unicode'[0m
+  [1m[35m (91.4ms)[0m  [1m[35mCREATE DATABASE "auth_test" ENCODING = 'unicode'[0m
